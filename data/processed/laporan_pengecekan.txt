@@ -1,0 +1,63 @@
+[ipm] baris tidak dikenali (dibuang, bukan 34 provinsi): ['Papua Barat Daya', 'Papua Selatan', 'Papua Tengah', 'Papua Pegunungan', 'Indonesia']
+[miskin_pct_mar2022] baris tidak dikenali (dibuang, bukan 34 provinsi): ['Papua Barat Daya', 'Papua Selatan', 'Papua Tengah', 'Papua Pegunungan', 'Indonesia']
+[miskin_ribu_mar2022] baris tidak dikenali (dibuang, bukan 34 provinsi): ['Papua Barat Daya', 'Papua Selatan', 'Papua Tengah', 'Papua Pegunungan', 'Indonesia']
+[tpt_agu2022] baris tidak dikenali (dibuang, bukan 34 provinsi): ['Indonesia']
+[pdrb_kapita_ribu_rp] baris tidak dikenali (dibuang, bukan 34 provinsi): ['Papua Barat Daya', 'Papua Selatan', 'Papua Tengah', 'Papua Pegunungan']
+[pengeluaran_kapita_ribu_rp] baris tidak dikenali (dibuang, bukan 34 provinsi): []
+
+Jumlah provinsi: 34 (harus 34)
+Nilai kosong per kolom:
+kelompok_pulau                0
+ipm                           0
+miskin_pct_mar2022            0
+miskin_ribu_mar2022           0
+tpt_agu2022                   0
+rls_15plus_th                 0
+uhh_lk                        0
+uhh_pr                        0
+uhh_rata2_lp                  0
+pengeluaran_kapita_ribu_rp    0
+gini_mar2022                  0
+sanitasi_layak_pct            0
+air_minum_layak_pct           0
+pdrb_kapita_ribu_rp           0
+
+Angka nasional di file (pembanding): {'ipm': 73.77, 'miskin_pct': 9.54, 'tpt_agu': 5.86, 'pengeluaran_ribu_rp': 11479.0}
+Jumlah penduduk miskin 34 provinsi = 26,161.19 ribu vs nasional 26,161.16 ribu
+
+Rentang nilai:
+       ipm  miskin_pct_mar2022  miskin_ribu_mar2022  tpt_agu2022  rls_15plus_th  uhh_lk  uhh_pr  uhh_rata2_lp  pengeluaran_kapita_ribu_rp  gini_mar2022  sanitasi_layak_pct  air_minum_layak_pct  pdrb_kapita_ribu_rp
+min  62.16                4.45                49.46         2.34           7.31   66.03   70.02         68.03                      7146.0          0.24               40.34                65.39              21658.0
+max  82.77               26.56              4181.29         8.31          11.30   73.28   78.43         75.61                     18927.0          0.44               96.21                98.42             299675.0
+  ipm: tertinggi DKI Jakarta (82.77), terendah Papua (62.16)
+  miskin_pct_mar2022: tertinggi Papua (26.56), terendah Kepulauan Bangka Belitung (4.45)
+  tpt_agu2022: tertinggi Jawa Barat (8.31), terendah Sulawesi Barat (2.34)
+  pdrb_kapita_ribu_rp: tertinggi DKI Jakarta (299675.0), terendah Nusa Tenggara Timur (21658.0)
+  pengeluaran_kapita_ribu_rp: tertinggi DKI Jakarta (18927.0), terendah Papua (7146.0)
+
+Pembanding: rata-rata 34 provinsi tertimbang penduduk 5+ vs angka nasional di file (selisih kecil = wajar)
+  rls_15plus_th: tertimbang 9.06 vs nasional 9.08
+  sanitasi_layak_pct: tertimbang 80.84 vs nasional 80.92
+  air_minum_layak_pct: tertimbang 90.87 vs nasional 91.05
+  tpt_agu2022: tertimbang 5.87 vs nasional 5.86
+  miskin_pct_mar2022: tertimbang 9.63 vs nasional 9.54
+  ipm: tertimbang 73.73 vs nasional 73.77
+  uhh_rata2_lp (aproksimasi): tertimbang 74.02; nasional rata-rata L&P 73.75; UHH resmi L+P 2022 = 73,70 (BRS BPS 2023)
+  korelasi IPM vs UHH rata-rata: 0.818; UHH perempuan - laki-laki: min 3.73, maks 5.64
+  gini_mar2022: nasional di file 0.384 (tidak bisa ditimbang)
+Rentang variabel baru:
+     rls_15plus_th  gini_mar2022  sanitasi_layak_pct  air_minum_layak_pct
+min           7.31         0.236               40.34                65.39
+max          11.30         0.439               96.21                98.42
+  rls_15plus_th: tertinggi DKI Jakarta (11.3), terendah Papua (7.31)
+  gini_mar2022: tertinggi DI Yogyakarta (0.439), terendah Kepulauan Bangka Belitung (0.236)
+  sanitasi_layak_pct: tertinggi DI Yogyakarta (96.21), terendah Papua (40.34)
+  air_minum_layak_pct: tertinggi Bali (98.42), terendah Papua (65.39)
+Nilai kosong (semua kolom): 0
+
+Migran (file penduduk 5+) sama dengan migrasi masuk Tabel 7: 34/34 provinsi
+Neto per 1.000: tertinggi Nusa Tenggara Barat (26.48), terendah DKI Jakarta (-59.2)
+
+PDRB lapangan usaha: 34 provinsi x 17 sektor = 578 baris (harapan 578)
+  jumlah persen per provinsi: 0.9998-1.0002; selisih nilai vs total maks 0.020%
+  sektor terbesar per provinsi (cek logika): Bali=Akomodasi & Makan Minum; DKI Jakarta=Perdagangan; Jawa Barat=Industri Pengolahan; Kalimantan Timur=Pertambangan; Papua=Pertambangan; Riau=Industri Pengolahan; Sulawesi Tengah=Industri Pengolahan

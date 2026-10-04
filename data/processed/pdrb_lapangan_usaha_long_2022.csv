@@ -1,0 +1,579 @@
+provinsi,kelompok_pulau,no_sektor,kategori_kbli,sektor,persen,nilai_miliar_rp,total_pdrb_prov_miliar_rp
+Aceh,Sumatera,1,A,Pertanian,0.2971,62301.275799999996,209698
+Aceh,Sumatera,2,B,Pertambangan,0.0912,19124.4576,209698
+Aceh,Sumatera,3,C,Industri Pengolahan,0.0519,10883.3262,209698
+Aceh,Sumatera,4,D,Listrik & Gas,0.0011,230.6678,209698
+Aceh,Sumatera,5,E,Air & Limbah,0.0004,83.8792,209698
+Aceh,Sumatera,6,F,Konstruksi,0.0909,19061.548199999997,209698
+Aceh,Sumatera,7,G,Perdagangan,0.14,29357.72,209698
+Aceh,Sumatera,8,H,Transportasi,0.0548,11491.4504,209698
+Aceh,Sumatera,9,I,Akomodasi & Makan Minum,0.017,3564.8660000000004,209698
+Aceh,Sumatera,10,J,Info & Komunikasi,0.0296,6207.0608,209698
+Aceh,Sumatera,11,K,Keuangan,0.0173,3627.7754,209698
+Aceh,Sumatera,12,L,Real Estat,0.0388,8136.2824,209698
+Aceh,Sumatera,13,"M,N",Jasa Perusahaan,0.0064,1342.0672,209698
+Aceh,Sumatera,14,O,Adm. Pemerintahan,0.0894,18747.0012,209698
+Aceh,Sumatera,15,P,Pendidikan,0.0275,5766.695,209698
+Aceh,Sumatera,16,Q,Kesehatan,0.0324,6794.2152,209698
+Aceh,Sumatera,17,"R,S,T,U",Jasa Lainnya,0.0141,2956.7418,209698
+Sumatera Utara,Sumatera,1,A,Pertanian,0.2297,219407.8321,955193
+Sumatera Utara,Sumatera,2,B,Pertambangan,0.0121,11557.835299999999,955193
+Sumatera Utara,Sumatera,3,C,Industri Pengolahan,0.1913,182728.4209,955193
+Sumatera Utara,Sumatera,4,D,Listrik & Gas,0.0011,1050.7123000000001,955193
+Sumatera Utara,Sumatera,5,E,Air & Limbah,0.0009,859.6736999999999,955193
+Sumatera Utara,Sumatera,6,F,Konstruksi,0.1324,126467.5532,955193
+Sumatera Utara,Sumatera,7,G,Perdagangan,0.1899,181391.1507,955193
+Sumatera Utara,Sumatera,8,H,Transportasi,0.0454,43365.762200000005,955193
+Sumatera Utara,Sumatera,9,I,Akomodasi & Makan Minum,0.0204,19485.9372,955193
+Sumatera Utara,Sumatera,10,J,Info & Komunikasi,0.0233,22255.996900000002,955193
+Sumatera Utara,Sumatera,11,K,Keuangan,0.0297,28369.2321,955193
+Sumatera Utara,Sumatera,12,L,Real Estat,0.0488,46613.4184,955193
+Sumatera Utara,Sumatera,13,"M,N",Jasa Perusahaan,0.0105,10029.5265,955193
+Sumatera Utara,Sumatera,14,O,Adm. Pemerintahan,0.0317,30279.6181,955193
+Sumatera Utara,Sumatera,15,P,Pendidikan,0.0177,16906.916100000002,955193
+Sumatera Utara,Sumatera,16,Q,Kesehatan,0.0095,9074.3335,955193
+Sumatera Utara,Sumatera,17,"R,S,T,U",Jasa Lainnya,0.0055,5253.5615,955193
+Sumatera Barat,Sumatera,1,A,Pertanian,0.212,60499.5,285375
+Sumatera Barat,Sumatera,2,B,Pertambangan,0.0409,11671.8375,285375
+Sumatera Barat,Sumatera,3,C,Industri Pengolahan,0.0854,24371.025,285375
+Sumatera Barat,Sumatera,4,D,Listrik & Gas,0.001,285.375,285375
+Sumatera Barat,Sumatera,5,E,Air & Limbah,0.0009,256.8375,285375
+Sumatera Barat,Sumatera,6,F,Konstruksi,0.1006,28708.725,285375
+Sumatera Barat,Sumatera,7,G,Perdagangan,0.165,47086.875,285375
+Sumatera Barat,Sumatera,8,H,Transportasi,0.1088,31048.8,285375
+Sumatera Barat,Sumatera,9,I,Akomodasi & Makan Minum,0.0135,3852.5625,285375
+Sumatera Barat,Sumatera,10,J,Info & Komunikasi,0.0668,19063.05,285375
+Sumatera Barat,Sumatera,11,K,Keuangan,0.0323,9217.612500000001,285375
+Sumatera Barat,Sumatera,12,L,Real Estat,0.0202,5764.575,285375
+Sumatera Barat,Sumatera,13,"M,N",Jasa Perusahaan,0.0042,1198.5749999999998,285375
+Sumatera Barat,Sumatera,14,O,Adm. Pemerintahan,0.0652,18606.449999999997,285375
+Sumatera Barat,Sumatera,15,P,Pendidikan,0.0462,13184.324999999999,285375
+Sumatera Barat,Sumatera,16,Q,Kesehatan,0.0165,4708.6875,285375
+Sumatera Barat,Sumatera,17,"R,S,T,U",Jasa Lainnya,0.0205,5850.1875,285375
+Riau,Sumatera,1,A,Pertanian,0.2552,253060.148,991615
+Riau,Sumatera,2,B,Pertambangan,0.227,225096.605,991615
+Riau,Sumatera,3,C,Industri Pengolahan,0.2726,270314.249,991615
+Riau,Sumatera,4,D,Listrik & Gas,0.0008,793.292,991615
+Riau,Sumatera,5,E,Air & Limbah,0.0001,99.1615,991615
+Riau,Sumatera,6,F,Konstruksi,0.0857,84981.4055,991615
+Riau,Sumatera,7,G,Perdagangan,0.0979,97079.1085,991615
+Riau,Sumatera,8,H,Transportasi,0.0074,7337.951,991615
+Riau,Sumatera,9,I,Akomodasi & Makan Minum,0.0046,4561.429,991615
+Riau,Sumatera,10,J,Info & Komunikasi,0.0076,7536.274,991615
+Riau,Sumatera,11,K,Keuangan,0.0092,9122.858,991615
+Riau,Sumatera,12,L,Real Estat,0.0081,8032.081499999999,991615
+Riau,Sumatera,13,"M,N",Jasa Perusahaan,0.0,0.0,991615
+Riau,Sumatera,14,O,Adm. Pemerintahan,0.0125,12395.1875,991615
+Riau,Sumatera,15,P,Pendidikan,0.0049,4858.9135,991615
+Riau,Sumatera,16,Q,Kesehatan,0.0023,2280.7145,991615
+Riau,Sumatera,17,"R,S,T,U",Jasa Lainnya,0.0041,4065.6215,991615
+Jambi,Sumatera,1,A,Pertanian,0.3018,83579.58660000001,276937
+Jambi,Sumatera,2,B,Pertambangan,0.1923,53254.9851,276937
+Jambi,Sumatera,3,C,Industri Pengolahan,0.0977,27056.744899999998,276937
+Jambi,Sumatera,4,D,Listrik & Gas,0.0007,193.8559,276937
+Jambi,Sumatera,5,E,Air & Limbah,0.0013,360.0181,276937
+Jambi,Sumatera,6,F,Konstruksi,0.0701,19413.2837,276937
+Jambi,Sumatera,7,G,Perdagangan,0.1221,33814.0077,276937
+Jambi,Sumatera,8,H,Transportasi,0.0286,7920.3982000000005,276937
+Jambi,Sumatera,9,I,Akomodasi & Makan Minum,0.0105,2907.8385000000003,276937
+Jambi,Sumatera,10,J,Info & Komunikasi,0.0367,10163.5879,276937
+Jambi,Sumatera,11,K,Keuangan,0.0232,6424.9384,276937
+Jambi,Sumatera,12,L,Real Estat,0.015,4154.055,276937
+Jambi,Sumatera,13,"M,N",Jasa Perusahaan,0.0129,3572.4873,276937
+Jambi,Sumatera,14,O,Adm. Pemerintahan,0.0358,9914.3446,276937
+Jambi,Sumatera,15,P,Pendidikan,0.031,8585.047,276937
+Jambi,Sumatera,16,Q,Kesehatan,0.0119,3295.5503000000003,276937
+Jambi,Sumatera,17,"R,S,T,U",Jasa Lainnya,0.0086,2381.6582,276937
+Sumatera Selatan,Sumatera,1,A,Pertanian,0.1308,77182.3332,590079
+Sumatera Selatan,Sumatera,2,B,Pertambangan,0.2771,163510.8909,590079
+Sumatera Selatan,Sumatera,3,C,Industri Pengolahan,0.1751,103322.83290000001,590079
+Sumatera Selatan,Sumatera,4,D,Listrik & Gas,0.0013,767.1026999999999,590079
+Sumatera Selatan,Sumatera,5,E,Air & Limbah,0.001,590.0790000000001,590079
+Sumatera Selatan,Sumatera,6,F,Konstruksi,0.1067,62961.4293,590079
+Sumatera Selatan,Sumatera,7,G,Perdagangan,0.1297,76533.2463,590079
+Sumatera Selatan,Sumatera,8,H,Transportasi,0.0221,13040.745900000002,590079
+Sumatera Selatan,Sumatera,9,I,Akomodasi & Makan Minum,0.0177,10444.3983,590079
+Sumatera Selatan,Sumatera,10,J,Info & Komunikasi,0.0291,17171.2989,590079
+Sumatera Selatan,Sumatera,11,K,Keuangan,0.0208,12273.643199999999,590079
+Sumatera Selatan,Sumatera,12,L,Real Estat,0.029,17112.291,590079
+Sumatera Selatan,Sumatera,13,"M,N",Jasa Perusahaan,0.0011,649.0869,590079
+Sumatera Selatan,Sumatera,14,O,Adm. Pemerintahan,0.0245,14456.935500000001,590079
+Sumatera Selatan,Sumatera,15,P,Pendidikan,0.0206,12155.6274,590079
+Sumatera Selatan,Sumatera,16,Q,Kesehatan,0.0063,3717.4977,590079
+Sumatera Selatan,Sumatera,17,"R,S,T,U",Jasa Lainnya,0.0071,4189.5609,590079
+Bengkulu,Sumatera,1,A,Pertanian,0.2769,24952.012799999997,90112
+Bengkulu,Sumatera,2,B,Pertambangan,0.0745,6713.344,90112
+Bengkulu,Sumatera,3,C,Industri Pengolahan,0.0548,4938.1376,90112
+Bengkulu,Sumatera,4,D,Listrik & Gas,0.001,90.112,90112
+Bengkulu,Sumatera,5,E,Air & Limbah,0.0018,162.20159999999998,90112
+Bengkulu,Sumatera,6,F,Konstruksi,0.0489,4406.4768,90112
+Bengkulu,Sumatera,7,G,Perdagangan,0.1402,12633.702399999998,90112
+Bengkulu,Sumatera,8,H,Transportasi,0.0915,8245.248,90112
+Bengkulu,Sumatera,9,I,Akomodasi & Makan Minum,0.0168,1513.8816,90112
+Bengkulu,Sumatera,10,J,Info & Komunikasi,0.0368,3316.1216,90112
+Bengkulu,Sumatera,11,K,Keuangan,0.0319,2874.5728,90112
+Bengkulu,Sumatera,12,L,Real Estat,0.0333,3000.7296,90112
+Bengkulu,Sumatera,13,"M,N",Jasa Perusahaan,0.0215,1937.408,90112
+Bengkulu,Sumatera,14,O,Adm. Pemerintahan,0.0853,7686.5536,90112
+Bengkulu,Sumatera,15,P,Pendidikan,0.0576,5190.4511999999995,90112
+Bengkulu,Sumatera,16,Q,Kesehatan,0.0187,1685.0944000000002,90112
+Bengkulu,Sumatera,17,"R,S,T,U",Jasa Lainnya,0.0084,756.9408,90112
+Lampung,Sumatera,1,A,Pertanian,0.2788,115456.656,414120
+Lampung,Sumatera,2,B,Pertambangan,0.0589,24391.668,414120
+Lampung,Sumatera,3,C,Industri Pengolahan,0.1855,76819.26,414120
+Lampung,Sumatera,4,D,Listrik & Gas,0.0014,579.768,414120
+Lampung,Sumatera,5,E,Air & Limbah,0.001,414.12,414120
+Lampung,Sumatera,6,F,Konstruksi,0.0975,40376.700000000004,414120
+Lampung,Sumatera,7,G,Perdagangan,0.132,54663.840000000004,414120
+Lampung,Sumatera,8,H,Transportasi,0.0598,24764.376,414120
+Lampung,Sumatera,9,I,Akomodasi & Makan Minum,0.0152,6294.624,414120
+Lampung,Sumatera,10,J,Info & Komunikasi,0.0389,16109.267999999998,414120
+Lampung,Sumatera,11,K,Keuangan,0.0208,8613.696,414120
+Lampung,Sumatera,12,L,Real Estat,0.0275,11388.3,414120
+Lampung,Sumatera,13,"M,N",Jasa Perusahaan,0.0016,662.592,414120
+Lampung,Sumatera,14,O,Adm. Pemerintahan,0.0324,13417.488,414120
+Lampung,Sumatera,15,P,Pendidikan,0.0289,11968.068,414120
+Lampung,Sumatera,16,Q,Kesehatan,0.0099,4099.7880000000005,414120
+Lampung,Sumatera,17,"R,S,T,U",Jasa Lainnya,0.01,4141.2,414120
+Kepulauan Bangka Belitung,Sumatera,1,A,Pertanian,0.1918,18275.8548,95286
+Kepulauan Bangka Belitung,Sumatera,2,B,Pertambangan,0.0863,8223.1818,95286
+Kepulauan Bangka Belitung,Sumatera,3,C,Industri Pengolahan,0.2183,20800.9338,95286
+Kepulauan Bangka Belitung,Sumatera,4,D,Listrik & Gas,0.0011,104.81460000000001,95286
+Kepulauan Bangka Belitung,Sumatera,5,E,Air & Limbah,0.0002,19.0572,95286
+Kepulauan Bangka Belitung,Sumatera,6,F,Konstruksi,0.0909,8661.4974,95286
+Kepulauan Bangka Belitung,Sumatera,7,G,Perdagangan,0.1575,15007.545,95286
+Kepulauan Bangka Belitung,Sumatera,8,H,Transportasi,0.044,4192.584,95286
+Kepulauan Bangka Belitung,Sumatera,9,I,Akomodasi & Makan Minum,0.0308,2934.8088000000002,95286
+Kepulauan Bangka Belitung,Sumatera,10,J,Info & Komunikasi,0.0209,1991.4773999999998,95286
+Kepulauan Bangka Belitung,Sumatera,11,K,Keuangan,0.0188,1791.3768,95286
+Kepulauan Bangka Belitung,Sumatera,12,L,Real Estat,0.0342,3258.7812,95286
+Kepulauan Bangka Belitung,Sumatera,13,"M,N",Jasa Perusahaan,0.0028,266.8008,95286
+Kepulauan Bangka Belitung,Sumatera,14,O,Adm. Pemerintahan,0.0529,5040.6294,95286
+Kepulauan Bangka Belitung,Sumatera,15,P,Pendidikan,0.0278,2648.9507999999996,95286
+Kepulauan Bangka Belitung,Sumatera,16,Q,Kesehatan,0.0134,1276.8324,95286
+Kepulauan Bangka Belitung,Sumatera,17,"R,S,T,U",Jasa Lainnya,0.0082,781.3452000000001,95286
+Kepulauan Riau,Sumatera,1,A,Pertanian,0.0304,9385.696,308740
+Kepulauan Riau,Sumatera,2,B,Pertambangan,0.1258,38839.492,308740
+Kepulauan Riau,Sumatera,3,C,Industri Pengolahan,0.4081,125996.79400000001,308740
+Kepulauan Riau,Sumatera,4,D,Listrik & Gas,0.0106,3272.6440000000002,308740
+Kepulauan Riau,Sumatera,5,E,Air & Limbah,0.001,308.74,308740
+Kepulauan Riau,Sumatera,6,F,Konstruksi,0.1913,59061.962,308740
+Kepulauan Riau,Sumatera,7,G,Perdagangan,0.0886,27354.363999999998,308740
+Kepulauan Riau,Sumatera,8,H,Transportasi,0.0191,5896.933999999999,308740
+Kepulauan Riau,Sumatera,9,I,Akomodasi & Makan Minum,0.0158,4878.092000000001,308740
+Kepulauan Riau,Sumatera,10,J,Info & Komunikasi,0.025,7718.5,308740
+Kepulauan Riau,Sumatera,11,K,Keuangan,0.0256,7903.744000000001,308740
+Kepulauan Riau,Sumatera,12,L,Real Estat,0.0109,3365.266,308740
+Kepulauan Riau,Sumatera,13,"M,N",Jasa Perusahaan,0.0,0.0,308740
+Kepulauan Riau,Sumatera,14,O,Adm. Pemerintahan,0.0233,7193.642000000001,308740
+Kepulauan Riau,Sumatera,15,P,Pendidikan,0.0135,4167.99,308740
+Kepulauan Riau,Sumatera,16,Q,Kesehatan,0.0086,2655.164,308740
+Kepulauan Riau,Sumatera,17,"R,S,T,U",Jasa Lainnya,0.0025,771.85,308740
+DKI Jakarta,Jawa,1,A,Pertanian,0.0008,2550.8328,3188541
+DKI Jakarta,Jawa,2,B,Pertambangan,0.0025,7971.3525,3188541
+DKI Jakarta,Jawa,3,C,Industri Pengolahan,0.1227,391233.9807,3188541
+DKI Jakarta,Jawa,4,D,Listrik & Gas,0.0023,7333.6443,3188541
+DKI Jakarta,Jawa,5,E,Air & Limbah,0.0003,956.5622999999999,3188541
+DKI Jakarta,Jawa,6,F,Konstruksi,0.1104,352014.9264,3188541
+DKI Jakarta,Jawa,7,G,Perdagangan,0.1742,555443.8422,3188541
+DKI Jakarta,Jawa,8,H,Transportasi,0.0398,126903.9318,3188541
+DKI Jakarta,Jawa,9,I,Akomodasi & Makan Minum,0.0451,143803.1991,3188541
+DKI Jakarta,Jawa,10,J,Info & Komunikasi,0.0925,294940.0425,3188541
+DKI Jakarta,Jawa,11,K,Keuangan,0.1107,352971.48870000005,3188541
+DKI Jakarta,Jawa,12,L,Real Estat,0.0584,186210.7944,3188541
+DKI Jakarta,Jawa,13,"M,N",Jasa Perusahaan,0.0853,271982.5473,3188541
+DKI Jakarta,Jawa,14,O,Adm. Pemerintahan,0.0457,145716.32369999998,3188541
+DKI Jakarta,Jawa,15,P,Pendidikan,0.0468,149223.7188,3188541
+DKI Jakarta,Jawa,16,Q,Kesehatan,0.0223,71104.4643,3188541
+DKI Jakarta,Jawa,17,"R,S,T,U",Jasa Lainnya,0.0402,128179.3482,3188541
+Jawa Barat,Jawa,1,A,Pertanian,0.0857,207632.4174,2422782
+Jawa Barat,Jawa,2,B,Pertambangan,0.0115,27861.993,2422782
+Jawa Barat,Jawa,3,C,Industri Pengolahan,0.4224,1023383.1168,2422782
+Jawa Barat,Jawa,4,D,Listrik & Gas,0.005,12113.91,2422782
+Jawa Barat,Jawa,5,E,Air & Limbah,0.001,2422.782,2422782
+Jawa Barat,Jawa,6,F,Konstruksi,0.0835,202302.29700000002,2422782
+Jawa Barat,Jawa,7,G,Perdagangan,0.144,348880.60799999995,2422782
+Jawa Barat,Jawa,8,H,Transportasi,0.0537,130103.3934,2422782
+Jawa Barat,Jawa,9,I,Akomodasi & Makan Minum,0.0288,69776.1216,2422782
+Jawa Barat,Jawa,10,J,Info & Komunikasi,0.0382,92550.2724,2422782
+Jawa Barat,Jawa,11,K,Keuangan,0.0288,69776.1216,2422782
+Jawa Barat,Jawa,12,L,Real Estat,0.0117,28346.5494,2422782
+Jawa Barat,Jawa,13,"M,N",Jasa Perusahaan,0.0045,10902.518999999998,2422782
+Jawa Barat,Jawa,14,O,Adm. Pemerintahan,0.0184,44579.188799999996,2422782
+Jawa Barat,Jawa,15,P,Pendidikan,0.0332,80436.3624,2422782
+Jawa Barat,Jawa,16,Q,Kesehatan,0.0079,19139.9778,2422782
+Jawa Barat,Jawa,17,"R,S,T,U",Jasa Lainnya,0.0215,52089.812999999995,2422782
+Jawa Tengah,Jawa,1,A,Pertanian,0.1356,211419.384,1559140
+Jawa Tengah,Jawa,2,B,Pertambangan,0.0242,37731.188,1559140
+Jawa Tengah,Jawa,3,C,Industri Pengolahan,0.3394,529172.1159999999,1559140
+Jawa Tengah,Jawa,4,D,Listrik & Gas,0.0009,1403.2259999999999,1559140
+Jawa Tengah,Jawa,5,E,Air & Limbah,0.0006,935.4839999999999,1559140
+Jawa Tengah,Jawa,6,F,Konstruksi,0.1104,172129.056,1559140
+Jawa Tengah,Jawa,7,G,Perdagangan,0.1361,212198.954,1559140
+Jawa Tengah,Jawa,8,H,Transportasi,0.038,59247.32,1559140
+Jawa Tengah,Jawa,9,I,Akomodasi & Makan Minum,0.0329,51295.706,1559140
+Jawa Tengah,Jawa,10,J,Info & Komunikasi,0.0401,62521.513999999996,1559140
+Jawa Tengah,Jawa,11,K,Keuangan,0.0301,46930.113999999994,1559140
+Jawa Tengah,Jawa,12,L,Real Estat,0.0163,25413.981999999996,1559140
+Jawa Tengah,Jawa,13,"M,N",Jasa Perusahaan,0.004,6236.56,1559140
+Jawa Tengah,Jawa,14,O,Adm. Pemerintahan,0.024,37419.36,1559140
+Jawa Tengah,Jawa,15,P,Pendidikan,0.0423,65951.622,1559140
+Jawa Tengah,Jawa,16,Q,Kesehatan,0.0092,14344.088,1559140
+Jawa Tengah,Jawa,17,"R,S,T,U",Jasa Lainnya,0.0157,24478.498,1559140
+DI Yogyakarta,Jawa,1,A,Pertanian,0.0997,16522.7825,165725
+DI Yogyakarta,Jawa,2,B,Pertambangan,0.0043,712.6175,165725
+DI Yogyakarta,Jawa,3,C,Industri Pengolahan,0.1193,19770.9925,165725
+DI Yogyakarta,Jawa,4,D,Listrik & Gas,0.0013,215.4425,165725
+DI Yogyakarta,Jawa,5,E,Air & Limbah,0.001,165.725,165725
+DI Yogyakarta,Jawa,6,F,Konstruksi,0.0992,16439.92,165725
+DI Yogyakarta,Jawa,7,G,Perdagangan,0.0825,13672.3125,165725
+DI Yogyakarta,Jawa,8,H,Transportasi,0.0512,8485.12,165725
+DI Yogyakarta,Jawa,9,I,Akomodasi & Makan Minum,0.0988,16373.63,165725
+DI Yogyakarta,Jawa,10,J,Info & Komunikasi,0.103,17069.675,165725
+DI Yogyakarta,Jawa,11,K,Keuangan,0.0412,6827.87,165725
+DI Yogyakarta,Jawa,12,L,Real Estat,0.0676,11203.009999999998,165725
+DI Yogyakarta,Jawa,13,"M,N",Jasa Perusahaan,0.0093,1541.2424999999998,165725
+DI Yogyakarta,Jawa,14,O,Adm. Pemerintahan,0.078,12926.55,165725
+DI Yogyakarta,Jawa,15,P,Pendidikan,0.084,13920.900000000001,165725
+DI Yogyakarta,Jawa,16,Q,Kesehatan,0.031,5137.475,165725
+DI Yogyakarta,Jawa,17,"R,S,T,U",Jasa Lainnya,0.0285,4723.1625,165725
+Jawa Timur,Jawa,1,A,Pertanian,0.1111,303461.2064,2731424
+Jawa Timur,Jawa,2,B,Pertambangan,0.0438,119636.3712,2731424
+Jawa Timur,Jawa,3,C,Industri Pengolahan,0.3058,835269.4592,2731424
+Jawa Timur,Jawa,4,D,Listrik & Gas,0.0029,7921.129599999999,2731424
+Jawa Timur,Jawa,5,E,Air & Limbah,0.0009,2458.2816,2731424
+Jawa Timur,Jawa,6,F,Konstruksi,0.0904,246920.7296,2731424
+Jawa Timur,Jawa,7,G,Perdagangan,0.1867,509956.8608,2731424
+Jawa Timur,Jawa,8,H,Transportasi,0.0353,96419.26719999999,2731424
+Jawa Timur,Jawa,9,I,Akomodasi & Makan Minum,0.0564,154052.3136,2731424
+Jawa Timur,Jawa,10,J,Info & Komunikasi,0.0497,135751.7728,2731424
+Jawa Timur,Jawa,11,K,Keuangan,0.0266,72655.8784,2731424
+Jawa Timur,Jawa,12,L,Real Estat,0.0164,44795.3536,2731424
+Jawa Timur,Jawa,13,"M,N",Jasa Perusahaan,0.0078,21305.1072,2731424
+Jawa Timur,Jawa,14,O,Adm. Pemerintahan,0.0214,58452.4736,2731424
+Jawa Timur,Jawa,15,P,Pendidikan,0.0248,67739.3152,2731424
+Jawa Timur,Jawa,16,Q,Kesehatan,0.0069,18846.8256,2731424
+Jawa Timur,Jawa,17,"R,S,T,U",Jasa Lainnya,0.013,35508.511999999995,2731424
+Banten,Jawa,1,A,Pertanian,0.059,44086.039,747221
+Banten,Jawa,2,B,Pertambangan,0.0055,4109.715499999999,747221
+Banten,Jawa,3,C,Industri Pengolahan,0.3047,227678.23870000002,747221
+Banten,Jawa,4,D,Listrik & Gas,0.0174,13001.6454,747221
+Banten,Jawa,5,E,Air & Limbah,0.0008,597.7768,747221
+Banten,Jawa,6,F,Konstruksi,0.122,91160.962,747221
+Banten,Jawa,7,G,Perdagangan,0.1252,93552.0692,747221
+Banten,Jawa,8,H,Transportasi,0.0952,71135.43920000001,747221
+Banten,Jawa,9,I,Akomodasi & Makan Minum,0.0233,17410.2493,747221
+Banten,Jawa,10,J,Info & Komunikasi,0.0378,28244.9538,747221
+Banten,Jawa,11,K,Keuangan,0.0339,25330.7919,747221
+Banten,Jawa,12,L,Real Estat,0.0807,60300.73469999999,747221
+Banten,Jawa,13,"M,N",Jasa Perusahaan,0.0106,7920.5426,747221
+Banten,Jawa,14,O,Adm. Pemerintahan,0.0204,15243.308400000002,747221
+Banten,Jawa,15,P,Pendidikan,0.0329,24583.5709,747221
+Banten,Jawa,16,Q,Kesehatan,0.0143,10685.2603,747221
+Banten,Jawa,17,"R,S,T,U",Jasa Lainnya,0.0163,12179.702299999999,747221
+Bali,Bali & Nusa Tenggara,1,A,Pertanian,0.1468,36020.0224,245368
+Bali,Bali & Nusa Tenggara,2,B,Pertambangan,0.0094,2306.4592000000002,245368
+Bali,Bali & Nusa Tenggara,3,C,Industri Pengolahan,0.0658,16145.214399999999,245368
+Bali,Bali & Nusa Tenggara,4,D,Listrik & Gas,0.0023,564.3464,245368
+Bali,Bali & Nusa Tenggara,5,E,Air & Limbah,0.0017,417.12559999999996,245368
+Bali,Bali & Nusa Tenggara,6,F,Konstruksi,0.1065,26131.692,245368
+Bali,Bali & Nusa Tenggara,7,G,Perdagangan,0.0919,22549.319199999998,245368
+Bali,Bali & Nusa Tenggara,8,H,Transportasi,0.077,18893.336,245368
+Bali,Bali & Nusa Tenggara,9,I,Akomodasi & Makan Minum,0.1798,44117.166399999995,245368
+Bali,Bali & Nusa Tenggara,10,J,Info & Komunikasi,0.0613,15041.0584,245368
+Bali,Bali & Nusa Tenggara,11,K,Keuangan,0.0468,11483.2224,245368
+Bali,Bali & Nusa Tenggara,12,L,Real Estat,0.0435,10673.508,245368
+Bali,Bali & Nusa Tenggara,13,"M,N",Jasa Perusahaan,0.0117,2870.8056,245368
+Bali,Bali & Nusa Tenggara,14,O,Adm. Pemerintahan,0.0556,13642.460799999999,245368
+Bali,Bali & Nusa Tenggara,15,P,Pendidikan,0.0555,13617.924,245368
+Bali,Bali & Nusa Tenggara,16,Q,Kesehatan,0.0264,6477.7152,245368
+Bali,Bali & Nusa Tenggara,17,"R,S,T,U",Jasa Lainnya,0.018,4416.624,245368
+Nusa Tenggara Barat,Bali & Nusa Tenggara,1,A,Pertanian,0.2139,33570.1077,156943
+Nusa Tenggara Barat,Bali & Nusa Tenggara,2,B,Pertambangan,0.2037,31969.289099999998,156943
+Nusa Tenggara Barat,Bali & Nusa Tenggara,3,C,Industri Pengolahan,0.0376,5901.0568,156943
+Nusa Tenggara Barat,Bali & Nusa Tenggara,4,D,Listrik & Gas,0.0008,125.5544,156943
+Nusa Tenggara Barat,Bali & Nusa Tenggara,5,E,Air & Limbah,0.0008,125.5544,156943
+Nusa Tenggara Barat,Bali & Nusa Tenggara,6,F,Konstruksi,0.09,14124.869999999999,156943
+Nusa Tenggara Barat,Bali & Nusa Tenggara,7,G,Perdagangan,0.1385,21736.6055,156943
+Nusa Tenggara Barat,Bali & Nusa Tenggara,8,H,Transportasi,0.0552,8663.2536,156943
+Nusa Tenggara Barat,Bali & Nusa Tenggara,9,I,Akomodasi & Makan Minum,0.0164,2573.8652,156943
+Nusa Tenggara Barat,Bali & Nusa Tenggara,10,J,Info & Komunikasi,0.0207,3248.7201,156943
+Nusa Tenggara Barat,Bali & Nusa Tenggara,11,K,Keuangan,0.0413,6481.745900000001,156943
+Nusa Tenggara Barat,Bali & Nusa Tenggara,12,L,Real Estat,0.0302,4739.6786,156943
+Nusa Tenggara Barat,Bali & Nusa Tenggara,13,"M,N",Jasa Perusahaan,0.0017,266.8031,156943
+Nusa Tenggara Barat,Bali & Nusa Tenggara,14,O,Adm. Pemerintahan,0.0605,9495.0515,156943
+Nusa Tenggara Barat,Bali & Nusa Tenggara,15,P,Pendidikan,0.0485,7611.7355,156943
+Nusa Tenggara Barat,Bali & Nusa Tenggara,16,Q,Kesehatan,0.0194,3044.6942,156943
+Nusa Tenggara Barat,Bali & Nusa Tenggara,17,"R,S,T,U",Jasa Lainnya,0.0207,3248.7201,156943
+Nusa Tenggara Timur,Bali & Nusa Tenggara,1,A,Pertanian,0.296,35141.712,118722
+Nusa Tenggara Timur,Bali & Nusa Tenggara,2,B,Pertambangan,0.0106,1258.4532,118722
+Nusa Tenggara Timur,Bali & Nusa Tenggara,3,C,Industri Pengolahan,0.0121,1436.5362,118722
+Nusa Tenggara Timur,Bali & Nusa Tenggara,4,D,Listrik & Gas,0.0009,106.8498,118722
+Nusa Tenggara Timur,Bali & Nusa Tenggara,5,E,Air & Limbah,0.0006,71.2332,118722
+Nusa Tenggara Timur,Bali & Nusa Tenggara,6,F,Konstruksi,0.102,12109.643999999998,118722
+Nusa Tenggara Timur,Bali & Nusa Tenggara,7,G,Perdagangan,0.1205,14306.001,118722
+Nusa Tenggara Timur,Bali & Nusa Tenggara,8,H,Transportasi,0.0484,5746.1448,118722
+Nusa Tenggara Timur,Bali & Nusa Tenggara,9,I,Akomodasi & Makan Minum,0.0062,736.0763999999999,118722
+Nusa Tenggara Timur,Bali & Nusa Tenggara,10,J,Info & Komunikasi,0.0728,8642.9616,118722
+Nusa Tenggara Timur,Bali & Nusa Tenggara,11,K,Keuangan,0.0453,5378.1066,118722
+Nusa Tenggara Timur,Bali & Nusa Tenggara,12,L,Real Estat,0.0232,2754.3504,118722
+Nusa Tenggara Timur,Bali & Nusa Tenggara,13,"M,N",Jasa Perusahaan,0.0015,178.083,118722
+Nusa Tenggara Timur,Bali & Nusa Tenggara,14,O,Adm. Pemerintahan,0.1282,15220.1604,118722
+Nusa Tenggara Timur,Bali & Nusa Tenggara,15,P,Pendidikan,0.0907,10768.0854,118722
+Nusa Tenggara Timur,Bali & Nusa Tenggara,16,Q,Kesehatan,0.0244,2896.8168,118722
+Nusa Tenggara Timur,Bali & Nusa Tenggara,17,"R,S,T,U",Jasa Lainnya,0.0167,1982.6574,118722
+Kalimantan Barat,Kalimantan,1,A,Pertanian,0.211,53973.167,255797
+Kalimantan Barat,Kalimantan,2,B,Pertambangan,0.0656,16780.2832,255797
+Kalimantan Barat,Kalimantan,3,C,Industri Pengolahan,0.1646,42104.1862,255797
+Kalimantan Barat,Kalimantan,4,D,Listrik & Gas,0.0012,306.9564,255797
+Kalimantan Barat,Kalimantan,5,E,Air & Limbah,0.0012,306.9564,255797
+Kalimantan Barat,Kalimantan,6,F,Konstruksi,0.1253,32051.3641,255797
+Kalimantan Barat,Kalimantan,7,G,Perdagangan,0.137,35044.189000000006,255797
+Kalimantan Barat,Kalimantan,8,H,Transportasi,0.0426,10896.9522,255797
+Kalimantan Barat,Kalimantan,9,I,Akomodasi & Makan Minum,0.0209,5346.1573,255797
+Kalimantan Barat,Kalimantan,10,J,Info & Komunikasi,0.0401,10257.4597,255797
+Kalimantan Barat,Kalimantan,11,K,Keuangan,0.0334,8543.6198,255797
+Kalimantan Barat,Kalimantan,12,L,Real Estat,0.0252,6446.0844,255797
+Kalimantan Barat,Kalimantan,13,"M,N",Jasa Perusahaan,0.004,1023.188,255797
+Kalimantan Barat,Kalimantan,14,O,Adm. Pemerintahan,0.0636,16268.6892,255797
+Kalimantan Barat,Kalimantan,15,P,Pendidikan,0.0334,8543.6198,255797
+Kalimantan Barat,Kalimantan,16,Q,Kesehatan,0.0235,6011.2295,255797
+Kalimantan Barat,Kalimantan,17,"R,S,T,U",Jasa Lainnya,0.0076,1944.0572,255797
+Kalimantan Tengah,Kalimantan,1,A,Pertanian,0.2044,40827.0604,199741
+Kalimantan Tengah,Kalimantan,2,B,Pertambangan,0.1626,32477.886599999998,199741
+Kalimantan Tengah,Kalimantan,3,C,Industri Pengolahan,0.1548,30919.906799999997,199741
+Kalimantan Tengah,Kalimantan,4,D,Listrik & Gas,0.0009,179.7669,199741
+Kalimantan Tengah,Kalimantan,5,E,Air & Limbah,0.0009,179.7669,199741
+Kalimantan Tengah,Kalimantan,6,F,Konstruksi,0.0845,16878.1145,199741
+Kalimantan Tengah,Kalimantan,7,G,Perdagangan,0.1186,23689.2826,199741
+Kalimantan Tengah,Kalimantan,8,H,Transportasi,0.0655,13083.0355,199741
+Kalimantan Tengah,Kalimantan,9,I,Akomodasi & Makan Minum,0.0169,3375.6229,199741
+Kalimantan Tengah,Kalimantan,10,J,Info & Komunikasi,0.0103,2057.3323,199741
+Kalimantan Tengah,Kalimantan,11,K,Keuangan,0.0318,6351.763800000001,199741
+Kalimantan Tengah,Kalimantan,12,L,Real Estat,0.0191,3815.0530999999996,199741
+Kalimantan Tengah,Kalimantan,13,"M,N",Jasa Perusahaan,0.0003,59.92229999999999,199741
+Kalimantan Tengah,Kalimantan,14,O,Adm. Pemerintahan,0.0543,10845.9363,199741
+Kalimantan Tengah,Kalimantan,15,P,Pendidikan,0.0444,8868.5004,199741
+Kalimantan Tengah,Kalimantan,16,Q,Kesehatan,0.0222,4434.2502,199741
+Kalimantan Tengah,Kalimantan,17,"R,S,T,U",Jasa Lainnya,0.0086,1717.7726,199741
+Kalimantan Selatan,Kalimantan,1,A,Pertanian,0.1142,28675.5058,251099
+Kalimantan Selatan,Kalimantan,2,B,Pertambangan,0.3208,80552.55919999999,251099
+Kalimantan Selatan,Kalimantan,3,C,Industri Pengolahan,0.1138,28575.0662,251099
+Kalimantan Selatan,Kalimantan,4,D,Listrik & Gas,0.0013,326.4287,251099
+Kalimantan Selatan,Kalimantan,5,E,Air & Limbah,0.0036,903.9564,251099
+Kalimantan Selatan,Kalimantan,6,F,Konstruksi,0.0686,17225.391399999997,251099
+Kalimantan Selatan,Kalimantan,7,G,Perdagangan,0.0906,22749.5694,251099
+Kalimantan Selatan,Kalimantan,8,H,Transportasi,0.0621,15593.2479,251099
+Kalimantan Selatan,Kalimantan,9,I,Akomodasi & Makan Minum,0.0179,4494.6721,251099
+Kalimantan Selatan,Kalimantan,10,J,Info & Komunikasi,0.0331,8311.3769,251099
+Kalimantan Selatan,Kalimantan,11,K,Keuangan,0.0297,7457.6403,251099
+Kalimantan Selatan,Kalimantan,12,L,Real Estat,0.0202,5072.199799999999,251099
+Kalimantan Selatan,Kalimantan,13,"M,N",Jasa Perusahaan,0.0061,1531.7039000000002,251099
+Kalimantan Selatan,Kalimantan,14,O,Adm. Pemerintahan,0.0479,12027.6421,251099
+Kalimantan Selatan,Kalimantan,15,P,Pendidikan,0.0396,9943.520400000001,251099
+Kalimantan Selatan,Kalimantan,16,Q,Kesehatan,0.0194,4871.3206,251099
+Kalimantan Selatan,Kalimantan,17,"R,S,T,U",Jasa Lainnya,0.011,2762.089,251099
+Kalimantan Timur,Kalimantan,1,A,Pertanian,0.0705,64962.29549999999,921451
+Kalimantan Timur,Kalimantan,2,B,Pertambangan,0.5318,490027.64180000004,921451
+Kalimantan Timur,Kalimantan,3,C,Industri Pengolahan,0.1504,138586.2304,921451
+Kalimantan Timur,Kalimantan,4,D,Listrik & Gas,0.0005,460.7255,921451
+Kalimantan Timur,Kalimantan,5,E,Air & Limbah,0.0004,368.5804,921451
+Kalimantan Timur,Kalimantan,6,F,Konstruksi,0.0776,71504.59760000001,921451
+Kalimantan Timur,Kalimantan,7,G,Perdagangan,0.0517,47639.0167,921451
+Kalimantan Timur,Kalimantan,8,H,Transportasi,0.0314,28933.5614,921451
+Kalimantan Timur,Kalimantan,9,I,Akomodasi & Makan Minum,0.0082,7555.8982000000005,921451
+Kalimantan Timur,Kalimantan,10,J,Info & Komunikasi,0.012,11057.412,921451
+Kalimantan Timur,Kalimantan,11,K,Keuangan,0.0145,13361.0395,921451
+Kalimantan Timur,Kalimantan,12,L,Real Estat,0.0067,6173.7217,921451
+Kalimantan Timur,Kalimantan,13,"M,N",Jasa Perusahaan,0.0016,1474.3216,921451
+Kalimantan Timur,Kalimantan,14,O,Adm. Pemerintahan,0.0157,14466.7807,921451
+Kalimantan Timur,Kalimantan,15,P,Pendidikan,0.0143,13176.7493,921451
+Kalimantan Timur,Kalimantan,16,Q,Kesehatan,0.0073,6726.5923,921451
+Kalimantan Timur,Kalimantan,17,"R,S,T,U",Jasa Lainnya,0.0055,5067.9805,921451
+Kalimantan Utara,Kalimantan,1,A,Pertanian,0.141,19553.175,138675
+Kalimantan Utara,Kalimantan,2,B,Pertambangan,0.362,50200.35,138675
+Kalimantan Utara,Kalimantan,3,C,Industri Pengolahan,0.0777,10775.0475,138675
+Kalimantan Utara,Kalimantan,4,D,Listrik & Gas,0.0005,69.3375,138675
+Kalimantan Utara,Kalimantan,5,E,Air & Limbah,0.0005,69.3375,138675
+Kalimantan Utara,Kalimantan,6,F,Konstruksi,0.1096,15198.78,138675
+Kalimantan Utara,Kalimantan,7,G,Perdagangan,0.1116,15476.130000000001,138675
+Kalimantan Utara,Kalimantan,8,H,Transportasi,0.0628,8708.789999999999,138675
+Kalimantan Utara,Kalimantan,9,I,Akomodasi & Makan Minum,0.0138,1913.715,138675
+Kalimantan Utara,Kalimantan,10,J,Info & Komunikasi,0.024,3328.2000000000003,138675
+Kalimantan Utara,Kalimantan,11,K,Keuangan,0.0102,1414.4850000000001,138675
+Kalimantan Utara,Kalimantan,12,L,Real Estat,0.0063,873.6525,138675
+Kalimantan Utara,Kalimantan,13,"M,N",Jasa Perusahaan,0.0019,263.4825,138675
+Kalimantan Utara,Kalimantan,14,O,Adm. Pemerintahan,0.0399,5533.1325,138675
+Kalimantan Utara,Kalimantan,15,P,Pendidikan,0.0223,3092.4525,138675
+Kalimantan Utara,Kalimantan,16,Q,Kesehatan,0.0094,1303.545,138675
+Kalimantan Utara,Kalimantan,17,"R,S,T,U",Jasa Lainnya,0.0065,901.3874999999999,138675
+Sulawesi Utara,Sulawesi,1,A,Pertanian,0.209,32821.151,157039
+Sulawesi Utara,Sulawesi,2,B,Pertambangan,0.0521,8181.7319,157039
+Sulawesi Utara,Sulawesi,3,C,Industri Pengolahan,0.1066,16740.3574,157039
+Sulawesi Utara,Sulawesi,4,D,Listrik & Gas,0.001,157.03900000000002,157039
+Sulawesi Utara,Sulawesi,5,E,Air & Limbah,0.0011,172.74290000000002,157039
+Sulawesi Utara,Sulawesi,6,F,Konstruksi,0.1148,18028.0772,157039
+Sulawesi Utara,Sulawesi,7,G,Perdagangan,0.1327,20839.0753,157039
+Sulawesi Utara,Sulawesi,8,H,Transportasi,0.1029,16159.313100000001,157039
+Sulawesi Utara,Sulawesi,9,I,Akomodasi & Makan Minum,0.0164,2575.4396,157039
+Sulawesi Utara,Sulawesi,10,J,Info & Komunikasi,0.0403,6328.671700000001,157039
+Sulawesi Utara,Sulawesi,11,K,Keuangan,0.0378,5936.0742,157039
+Sulawesi Utara,Sulawesi,12,L,Real Estat,0.0301,4726.8739,157039
+Sulawesi Utara,Sulawesi,13,"M,N",Jasa Perusahaan,0.0009,141.33509999999998,157039
+Sulawesi Utara,Sulawesi,14,O,Adm. Pemerintahan,0.0684,10741.4676,157039
+Sulawesi Utara,Sulawesi,15,P,Pendidikan,0.0288,4522.723199999999,157039
+Sulawesi Utara,Sulawesi,16,Q,Kesehatan,0.0406,6375.783399999999,157039
+Sulawesi Utara,Sulawesi,17,"R,S,T,U",Jasa Lainnya,0.0165,2591.1435,157039
+Sulawesi Tengah,Sulawesi,1,A,Pertanian,0.1582,51198.266,323630
+Sulawesi Tengah,Sulawesi,2,B,Pertambangan,0.1534,49644.842000000004,323630
+Sulawesi Tengah,Sulawesi,3,C,Industri Pengolahan,0.4032,130487.616,323630
+Sulawesi Tengah,Sulawesi,4,D,Listrik & Gas,0.0002,64.726,323630
+Sulawesi Tengah,Sulawesi,5,E,Air & Limbah,0.0007,226.541,323630
+Sulawesi Tengah,Sulawesi,6,F,Konstruksi,0.0841,27217.283,323630
+Sulawesi Tengah,Sulawesi,7,G,Perdagangan,0.0571,18479.273,323630
+Sulawesi Tengah,Sulawesi,8,H,Transportasi,0.0207,6699.141,323630
+Sulawesi Tengah,Sulawesi,9,I,Akomodasi & Makan Minum,0.003,970.89,323630
+Sulawesi Tengah,Sulawesi,10,J,Info & Komunikasi,0.0215,6958.044999999999,323630
+Sulawesi Tengah,Sulawesi,11,K,Keuangan,0.0142,4595.546,323630
+Sulawesi Tengah,Sulawesi,12,L,Real Estat,0.0102,3301.0260000000003,323630
+Sulawesi Tengah,Sulawesi,13,"M,N",Jasa Perusahaan,0.0014,453.082,323630
+Sulawesi Tengah,Sulawesi,14,O,Adm. Pemerintahan,0.0376,12168.488000000001,323630
+Sulawesi Tengah,Sulawesi,15,P,Pendidikan,0.0203,6569.688999999999,323630
+Sulawesi Tengah,Sulawesi,16,Q,Kesehatan,0.0095,3074.485,323630
+Sulawesi Tengah,Sulawesi,17,"R,S,T,U",Jasa Lainnya,0.0047,1521.0610000000001,323630
+Sulawesi Selatan,Sulawesi,1,A,Pertanian,0.2213,133925.44879999998,605176
+Sulawesi Selatan,Sulawesi,2,B,Pertambangan,0.051,30863.976,605176
+Sulawesi Selatan,Sulawesi,3,C,Industri Pengolahan,0.1289,78007.18639999999,605176
+Sulawesi Selatan,Sulawesi,4,D,Listrik & Gas,0.0007,423.6232,605176
+Sulawesi Selatan,Sulawesi,5,E,Air & Limbah,0.001,605.176,605176
+Sulawesi Selatan,Sulawesi,6,F,Konstruksi,0.1408,85208.78080000001,605176
+Sulawesi Selatan,Sulawesi,7,G,Perdagangan,0.1464,88597.76640000001,605176
+Sulawesi Selatan,Sulawesi,8,H,Transportasi,0.0395,23904.452,605176
+Sulawesi Selatan,Sulawesi,9,I,Akomodasi & Makan Minum,0.0133,8048.8408,605176
+Sulawesi Selatan,Sulawesi,10,J,Info & Komunikasi,0.0534,32316.398400000002,605176
+Sulawesi Selatan,Sulawesi,11,K,Keuangan,0.0358,21665.3008,605176
+Sulawesi Selatan,Sulawesi,12,L,Real Estat,0.0349,21120.6424,605176
+Sulawesi Selatan,Sulawesi,13,"M,N",Jasa Perusahaan,0.0046,2783.8096,605176
+Sulawesi Selatan,Sulawesi,14,O,Adm. Pemerintahan,0.0412,24933.2512,605176
+Sulawesi Selatan,Sulawesi,15,P,Pendidikan,0.0506,30621.9056,605176
+Sulawesi Selatan,Sulawesi,16,Q,Kesehatan,0.0232,14040.0832,605176
+Sulawesi Selatan,Sulawesi,17,"R,S,T,U",Jasa Lainnya,0.0133,8048.8408,605176
+Sulawesi Tenggara,Sulawesi,1,A,Pertanian,0.2328,36968.64,158800
+Sulawesi Tenggara,Sulawesi,2,B,Pertambangan,0.2025,32157.000000000004,158800
+Sulawesi Tenggara,Sulawesi,3,C,Industri Pengolahan,0.0836,13275.679999999998,158800
+Sulawesi Tenggara,Sulawesi,4,D,Listrik & Gas,0.0004,63.52,158800
+Sulawesi Tenggara,Sulawesi,5,E,Air & Limbah,0.0015,238.20000000000002,158800
+Sulawesi Tenggara,Sulawesi,6,F,Konstruksi,0.1355,21517.4,158800
+Sulawesi Tenggara,Sulawesi,7,G,Perdagangan,0.1282,20358.16,158800
+Sulawesi Tenggara,Sulawesi,8,H,Transportasi,0.0433,6876.04,158800
+Sulawesi Tenggara,Sulawesi,9,I,Akomodasi & Makan Minum,0.0052,825.76,158800
+Sulawesi Tenggara,Sulawesi,10,J,Info & Komunikasi,0.0169,2683.72,158800
+Sulawesi Tenggara,Sulawesi,11,K,Keuangan,0.0242,3842.96,158800
+Sulawesi Tenggara,Sulawesi,12,L,Real Estat,0.0122,1937.3600000000001,158800
+Sulawesi Tenggara,Sulawesi,13,"M,N",Jasa Perusahaan,0.002,317.6,158800
+Sulawesi Tenggara,Sulawesi,14,O,Adm. Pemerintahan,0.046,7304.8,158800
+Sulawesi Tenggara,Sulawesi,15,P,Pendidikan,0.045,7146.0,158800
+Sulawesi Tenggara,Sulawesi,16,Q,Kesehatan,0.0093,1476.84,158800
+Sulawesi Tenggara,Sulawesi,17,"R,S,T,U",Jasa Lainnya,0.0114,1810.3200000000002,158800
+Gorontalo,Sulawesi,1,A,Pertanian,0.38,18075.08,47566
+Gorontalo,Sulawesi,2,B,Pertambangan,0.0109,518.4694,47566
+Gorontalo,Sulawesi,3,C,Industri Pengolahan,0.0456,2169.0096,47566
+Gorontalo,Sulawesi,4,D,Listrik & Gas,0.0005,23.783,47566
+Gorontalo,Sulawesi,5,E,Air & Limbah,0.0006,28.539599999999997,47566
+Gorontalo,Sulawesi,6,F,Konstruksi,0.1091,5189.4506,47566
+Gorontalo,Sulawesi,7,G,Perdagangan,0.1308,6221.6328,47566
+Gorontalo,Sulawesi,8,H,Transportasi,0.0561,2668.4526,47566
+Gorontalo,Sulawesi,9,I,Akomodasi & Makan Minum,0.0226,1074.9915999999998,47566
+Gorontalo,Sulawesi,10,J,Info & Komunikasi,0.027,1284.282,47566
+Gorontalo,Sulawesi,11,K,Keuangan,0.0461,2192.7926,47566
+Gorontalo,Sulawesi,12,L,Real Estat,0.0173,822.8918,47566
+Gorontalo,Sulawesi,13,"M,N",Jasa Perusahaan,0.0009,42.8094,47566
+Gorontalo,Sulawesi,14,O,Adm. Pemerintahan,0.0589,2801.6374,47566
+Gorontalo,Sulawesi,15,P,Pendidikan,0.0447,2126.2001999999998,47566
+Gorontalo,Sulawesi,16,Q,Kesehatan,0.036,1712.376,47566
+Gorontalo,Sulawesi,17,"R,S,T,U",Jasa Lainnya,0.013,618.358,47566
+Sulawesi Barat,Sulawesi,1,A,Pertanian,0.4426,23912.7928,54028
+Sulawesi Barat,Sulawesi,2,B,Pertambangan,0.0215,1161.6019999999999,54028
+Sulawesi Barat,Sulawesi,3,C,Industri Pengolahan,0.1081,5840.4268,54028
+Sulawesi Barat,Sulawesi,4,D,Listrik & Gas,0.0004,21.6112,54028
+Sulawesi Barat,Sulawesi,5,E,Air & Limbah,0.0013,70.2364,54028
+Sulawesi Barat,Sulawesi,6,F,Konstruksi,0.0746,4030.4888,54028
+Sulawesi Barat,Sulawesi,7,G,Perdagangan,0.0992,5359.5776,54028
+Sulawesi Barat,Sulawesi,8,H,Transportasi,0.014,756.392,54028
+Sulawesi Barat,Sulawesi,9,I,Akomodasi & Makan Minum,0.0023,124.2644,54028
+Sulawesi Barat,Sulawesi,10,J,Info & Komunikasi,0.0394,2128.7032,54028
+Sulawesi Barat,Sulawesi,11,K,Keuangan,0.0236,1275.0608,54028
+Sulawesi Barat,Sulawesi,12,L,Real Estat,0.0249,1345.2972,54028
+Sulawesi Barat,Sulawesi,13,"M,N",Jasa Perusahaan,0.0006,32.416799999999995,54028
+Sulawesi Barat,Sulawesi,14,O,Adm. Pemerintahan,0.0676,3652.2927999999997,54028
+Sulawesi Barat,Sulawesi,15,P,Pendidikan,0.0446,2409.6488,54028
+Sulawesi Barat,Sulawesi,16,Q,Kesehatan,0.0185,999.5179999999999,54028
+Sulawesi Barat,Sulawesi,17,"R,S,T,U",Jasa Lainnya,0.0166,896.8648000000001,54028
+Maluku,Maluku & Papua,1,A,Pertanian,0.2339,12649.0781,54079
+Maluku,Maluku & Papua,2,B,Pertambangan,0.0261,1411.4619,54079
+Maluku,Maluku & Papua,3,C,Industri Pengolahan,0.0572,3093.3188,54079
+Maluku,Maluku & Papua,4,D,Listrik & Gas,0.0009,48.671099999999996,54079
+Maluku,Maluku & Papua,5,E,Air & Limbah,0.0039,210.9081,54079
+Maluku,Maluku & Papua,6,F,Konstruksi,0.077,4164.083,54079
+Maluku,Maluku & Papua,7,G,Perdagangan,0.1331,7197.9149,54079
+Maluku,Maluku & Papua,8,H,Transportasi,0.052,2812.1079999999997,54079
+Maluku,Maluku & Papua,9,I,Akomodasi & Makan Minum,0.0148,800.3692000000001,54079
+Maluku,Maluku & Papua,10,J,Info & Komunikasi,0.0313,1692.6727,54079
+Maluku,Maluku & Papua,11,K,Keuangan,0.0414,2238.8705999999997,54079
+Maluku,Maluku & Papua,12,L,Real Estat,0.0027,146.01330000000002,54079
+Maluku,Maluku & Papua,13,"M,N",Jasa Perusahaan,0.0096,519.1583999999999,54079
+Maluku,Maluku & Papua,14,O,Adm. Pemerintahan,0.2213,11967.6827,54079
+Maluku,Maluku & Papua,15,P,Pendidikan,0.0557,3012.2003,54079
+Maluku,Maluku & Papua,16,Q,Kesehatan,0.023,1243.817,54079
+Maluku,Maluku & Papua,17,"R,S,T,U",Jasa Lainnya,0.016,865.264,54079
+Maluku Utara,Maluku & Papua,1,A,Pertanian,0.1434,10167.4902,70903
+Maluku Utara,Maluku & Papua,2,B,Pertambangan,0.1755,12443.476499999999,70903
+Maluku Utara,Maluku & Papua,3,C,Industri Pengolahan,0.291,20632.772999999997,70903
+Maluku Utara,Maluku & Papua,4,D,Listrik & Gas,0.0006,42.541799999999995,70903
+Maluku Utara,Maluku & Papua,5,E,Air & Limbah,0.0005,35.4515,70903
+Maluku Utara,Maluku & Papua,6,F,Konstruksi,0.051,3616.053,70903
+Maluku Utara,Maluku & Papua,7,G,Perdagangan,0.1107,7848.962100000001,70903
+Maluku Utara,Maluku & Papua,8,H,Transportasi,0.0373,2644.6819,70903
+Maluku Utara,Maluku & Papua,9,I,Akomodasi & Makan Minum,0.0027,191.43810000000002,70903
+Maluku Utara,Maluku & Papua,10,J,Info & Komunikasi,0.0241,1708.7623,70903
+Maluku Utara,Maluku & Papua,11,K,Keuangan,0.0231,1637.8592999999998,70903
+Maluku Utara,Maluku & Papua,12,L,Real Estat,0.0007,49.6321,70903
+Maluku Utara,Maluku & Papua,13,"M,N",Jasa Perusahaan,0.0021,148.8963,70903
+Maluku Utara,Maluku & Papua,14,O,Adm. Pemerintahan,0.0973,6898.8619,70903
+Maluku Utara,Maluku & Papua,15,P,Pendidikan,0.0213,1510.2339,70903
+Maluku Utara,Maluku & Papua,16,Q,Kesehatan,0.014,992.642,70903
+Maluku Utara,Maluku & Papua,17,"R,S,T,U",Jasa Lainnya,0.0048,340.33439999999996,70903
+Papua Barat,Maluku & Papua,1,A,Pertanian,0.1046,9550.1892,91302
+Papua Barat,Maluku & Papua,2,B,Pertambangan,0.1825,16662.614999999998,91302
+Papua Barat,Maluku & Papua,3,C,Industri Pengolahan,0.2684,24505.456800000004,91302
+Papua Barat,Maluku & Papua,4,D,Listrik & Gas,0.0006,54.7812,91302
+Papua Barat,Maluku & Papua,5,E,Air & Limbah,0.0011,100.43220000000001,91302
+Papua Barat,Maluku & Papua,6,F,Konstruksi,0.135,12325.77,91302
+Papua Barat,Maluku & Papua,7,G,Perdagangan,0.08,7304.16,91302
+Papua Barat,Maluku & Papua,8,H,Transportasi,0.0266,2428.6331999999998,91302
+Papua Barat,Maluku & Papua,9,I,Akomodasi & Makan Minum,0.0074,675.6348,91302
+Papua Barat,Maluku & Papua,10,J,Info & Komunikasi,0.0196,1789.5192,91302
+Papua Barat,Maluku & Papua,11,K,Keuangan,0.0187,1707.3474,91302
+Papua Barat,Maluku & Papua,12,L,Real Estat,0.0136,1241.7071999999998,91302
+Papua Barat,Maluku & Papua,13,"M,N",Jasa Perusahaan,0.0011,100.43220000000001,91302
+Papua Barat,Maluku & Papua,14,O,Adm. Pemerintahan,0.1064,9714.532799999999,91302
+Papua Barat,Maluku & Papua,15,P,Pendidikan,0.0223,2036.0346,91302
+Papua Barat,Maluku & Papua,16,Q,Kesehatan,0.009,821.718,91302
+Papua Barat,Maluku & Papua,17,"R,S,T,U",Jasa Lainnya,0.0032,292.1664,91302
+Papua,Maluku & Papua,1,A,Pertanian,0.103,27039.559999999998,262520
+Papua,Maluku & Papua,2,B,Pertambangan,0.386,101332.72,262520
+Papua,Maluku & Papua,3,C,Industri Pengolahan,0.0169,4436.588,262520
+Papua,Maluku & Papua,4,D,Listrik & Gas,0.0004,105.00800000000001,262520
+Papua,Maluku & Papua,5,E,Air & Limbah,0.0004,105.00800000000001,262520
+Papua,Maluku & Papua,6,F,Konstruksi,0.1375,36096.5,262520
+Papua,Maluku & Papua,7,G,Perdagangan,0.092,24151.84,262520
+Papua,Maluku & Papua,8,H,Transportasi,0.0442,11603.384,262520
+Papua,Maluku & Papua,9,I,Akomodasi & Makan Minum,0.0064,1680.1280000000002,262520
+Papua,Maluku & Papua,10,J,Info & Komunikasi,0.0357,9371.964,262520
+Papua,Maluku & Papua,11,K,Keuangan,0.0155,4069.06,262520
+Papua,Maluku & Papua,12,L,Real Estat,0.0254,6668.008,262520
+Papua,Maluku & Papua,13,"M,N",Jasa Perusahaan,0.0103,2703.956,262520
+Papua,Maluku & Papua,14,O,Adm. Pemerintahan,0.0853,22392.956000000002,262520
+Papua,Maluku & Papua,15,P,Pendidikan,0.0156,4095.312,262520
+Papua,Maluku & Papua,16,Q,Kesehatan,0.0158,4147.816000000001,262520
+Papua,Maluku & Papua,17,"R,S,T,U",Jasa Lainnya,0.0097,2546.444,262520
